@@ -4,7 +4,7 @@ Image Processing using OpenCV + Python
 This is a repository with content from a presentation given at NE FIRST
 University Day on September 10, 2016.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/twinters007/frc-imageprocessing-workshop-2016/master?filepath=slides.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/archduketim/frc-imageprocessing-workshop-2016/master?filepath=slides.ipynb)
 
 To launch the interactive environment using a web browser, click the
 'launch binder' button above. You can view the slides in that environment, just
